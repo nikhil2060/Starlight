@@ -1,4 +1,4 @@
-StarLight => nikhil2060.github.io/Starlight/
+StarLight => https://nikhil2060.github.io/Starlight/
 
 
 The mini project on GitHub is an excellent example of using CSS and JavaScript to create engaging and interactive web applications. This project focuses on manipulating and animating DOM elements to create dynamic user interfaces that respond to user input.

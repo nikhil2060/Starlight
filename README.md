@@ -1,4 +1,4 @@
-StarLight => https://nikhil2060.github.io/Starlight/
+#StarLight => https://nikhil2060.github.io/Starlight/
 
 
 The mini project is using HTML,CSS and JavaScript to create engaging and interactive web UI.
